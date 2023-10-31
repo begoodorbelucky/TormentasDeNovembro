@@ -15,7 +15,9 @@ body {min-height: 100vh;
 
 /* header */
 header {
-    background-color: blue;}
+    background-color: blue;
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+}
     
 /* main content */
 main {
