@@ -8,11 +8,19 @@
 
 /* General styles*/
 
+html {
+
+    background-image: url(https://images.pexels.com/photos/2397652/pexels-photo-2397652.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #001922;
+}
+
 body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /* header */
@@ -99,7 +107,6 @@ nav a:hover {
 
 /* main content */
 main {
-    background-color: aqua;
     /* make main element take up surplus space*/
     flex: 1 0 auto;
 }
