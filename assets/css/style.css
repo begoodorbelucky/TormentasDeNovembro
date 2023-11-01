@@ -8,7 +8,8 @@
 
 /* General styles*/
 
-body {min-height: 100vh;
+body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     font-family: 'Courier New', Courier, monospace
@@ -25,10 +26,32 @@ header {
     box-shadow: 0 2px 3px rgba(0, 20, 30, 0.8);
 }
 
-h1 {font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+header a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     color: rgba(250, 248, 242, 0.9);
     text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
-text-align: center;}
+    text-align: center;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    font-size: 130%;
+    font-weight: bolder;
+    border-bottom: 1px solid;
+}
 
 /* main content */
 main {
