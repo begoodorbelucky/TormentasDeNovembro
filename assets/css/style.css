@@ -80,6 +80,22 @@ nav {position: absolute;
     font-size: 2rem;
 }
 
+nav a:link {
+    color: #d6d1d1;
+    font-size: 15px;
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+}
+
+
+nav a:visited {
+    color: #d6d1d1;
+}
+
+nav a:hover {
+    color: #e99494;
+}
+
+
 /* main content */
 main {
     background-color: aqua;
