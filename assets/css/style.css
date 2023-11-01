@@ -26,12 +26,12 @@ body {
 /* header */
 
 header {
-    background-color: rgba(0, 20, 30, 1);
+    background-color: rgba(0, 20, 30, 0.8);
     padding: 0 1rem;
     position: sticky;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 3px rgba(0, 20, 30, 1);
+    box-shadow: 0 2px 3px rgba(0, 20, 30, 0.8);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -67,7 +67,7 @@ h1 {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: rgba(0, 20, 30, 1);
+    background-color: rgba(0, 20, 30, 0.8);
     width: 100%;
     left: 0;
     padding: 0 1rem;
