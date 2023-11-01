@@ -15,11 +15,20 @@ body {min-height: 100vh;
 }
 
 /* header */
+
 header {
-    background-color: blue;
+    background-color: rgba(0, 20, 30, 0.8);
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 3px rgba(0, 20, 30, 0.8);
 }
 
-h1 {font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;}
+h1 {font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+    color: rgba(250, 248, 242, 0.9);
+    text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
+text-align: center;}
 
 /* main content */
 main {
