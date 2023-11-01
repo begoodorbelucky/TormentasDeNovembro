@@ -18,12 +18,12 @@ body {
 /* header */
 
 header {
-    background-color: rgba(0, 20, 30, 0.8);
+    background-color: rgba(0, 20, 30, 1);
     padding: 0 1rem;
-    position: fixed;
+    position: sticky;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 3px rgba(0, 20, 30, 0.8);
+    box-shadow: 0 2px 3px rgba(0, 20, 30, 1);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -57,12 +57,13 @@ h1 {
 }
 
 /* Navbar styles with dropdown toggle */
-nav {position: absolute;
-    background-color: rgba(0, 20, 30, 0.8);
+nav {
+    position: absolute;
+    background-color: rgba(0, 20, 30, 1);
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 3px rgba(0, 20, 30, 0.8);
+    box-shadow: 0 2px 3px rgba(0, 20, 30, 1);
     display: none;
     top: 100%;
 }
@@ -106,4 +107,25 @@ main {
 /* footer */
 footer {
     background-color: blueviolet;
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu{display: flex;}
+
+    #menu > li {padding-left: 1rem;}
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
