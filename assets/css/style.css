@@ -203,3 +203,8 @@ footer {
     }
 }
 
+@media (max-width: 768px) {
+    .episode-grid {
+        grid-template-columns: 1fr;
+    }
+}
