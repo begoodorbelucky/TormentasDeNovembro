@@ -106,9 +106,15 @@ nav a:hover {
 
 
 /* main content */
+
 main {
     /* make main element take up surplus space*/
     flex: 1 0 auto;
+}
+
+/* about section */
+
+#about {background-color: rgba(250, 248, 242, 0.6);
 }
 
 /* footer */
@@ -122,19 +128,22 @@ footer {
     text-align: center;
     padding: 20px 0;
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
     list-style-type: none;
 }
 
-#social-networks i { font-size: 160%;
+#social-networks i {
+    font-size: 160%;
     color: #d6d1d1;
     padding: 5%;
 
 }
 
-#nav-toggle-label i {font-size: 60%;
-color: #d6d1d1;
-padding: 5%}
+#nav-toggle-label i {
+    font-size: 60%;
+    color: #d6d1d1;
+    padding: 5%
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
