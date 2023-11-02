@@ -114,7 +114,34 @@ main {
 
 /* about section */
 
-#about {background-color: rgba(250, 248, 242, 0.6);
+#about {
+    background-color: rgba(250, 248, 242, 0.6);
+}
+
+/* episode grid */
+.episode-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.episode {
+    border: 2px solid #b54531;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.episode h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #1a1919;
+}
+
+.episode p {
+    font-size: 18px;
+    margin-top: 10px;
 }
 
 /* footer */
@@ -175,3 +202,4 @@ footer {
         margin: 0 0.5rem;
     }
 }
+
