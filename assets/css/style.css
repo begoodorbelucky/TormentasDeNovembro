@@ -123,6 +123,10 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
+    background-color: rgba(250, 248, 242, 0.6);
+        padding: 10px;
+        border-radius: 10px;
+        margin-bottom: 10px;
 }
 
 .episode {
