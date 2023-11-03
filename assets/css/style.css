@@ -11,7 +11,9 @@
 html {
 
     background-image: url(https://images.pexels.com/photos/2397652/pexels-photo-2397652.jpeg);
+    min-height: 100%;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     background-color: #001922;
 }
@@ -26,15 +28,16 @@ body {
 /* header */
 
 header {
-    background-color: rgba(0, 20, 30, 0.8);
+    background-color: rgba(0, 20, 30, 0.7);
     padding: 0 1rem;
     position: sticky;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 3px rgba(0, 20, 30, 0.8);
+    box-shadow: 0 3px 4px rgba(0, 20, 30, 0.7);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    margin-bottom: 10px;
 }
 
 header a {
@@ -115,7 +118,21 @@ main {
 /* about section */
 
 #about {
-    background-color: rgba(250, 248, 242, 0.6);
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        border-radius: 10px;
+        margin: 20px;
+        color: #d6d1d1;
+    }
+
+#about h3 {
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+    color: rgba(250, 248, 242, 0.9);
+    text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
+    text-align: center;
 }
 
 /* episode grid */
