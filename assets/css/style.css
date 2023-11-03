@@ -124,9 +124,9 @@ main {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     background-color: rgba(250, 248, 242, 0.6);
-        padding: 10px;
-        border-radius: 10px;
-        margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .episode {
@@ -138,7 +138,7 @@ main {
 
 
 .episode h3 {
-    font-family: 'Cinzel Decorative','Courier New', Courier, monospace;
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     font-size: 16px;
     font-weight: bold;
     color: #1a1919;
@@ -185,6 +185,7 @@ footer {
     padding: 5%
 }
 
+/*Floating scroll on episodes page*/
 .scroll {
     position: fixed;
     display: flex;
@@ -232,7 +233,7 @@ footer {
         margin: 0 0.5rem;
     }
 }
-
+/* episodes grid - mobile */
 @media (max-width: 768px) {
     .episode-grid {
         grid-template-columns: 1fr;
