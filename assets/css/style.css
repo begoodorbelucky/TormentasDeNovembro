@@ -118,7 +118,7 @@ main {
 /* about section */
 
 #about {
-        background-color: rgba(231, 207, 203, 0.3);
+        background-color: rgba(194, 209, 233, 0.3);
         text-align: center;
         padding-left: 10%;
         padding-right: 10%;
@@ -127,6 +127,7 @@ main {
         border-radius: 10px;
         margin: 20px;
         color: #111010;
+        box-shadow: rgba(179, 74, 74, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     }
 
 #about h3 {
@@ -152,6 +153,7 @@ main {
     border-radius: 10px;
     padding: 20px;
     text-align: center;
+    box-shadow: rgba(179, 74, 74, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 
