@@ -12,8 +12,8 @@ html {
 
     background-image: url(https://i.imgur.com/MBnSvpg.jpg);
     min-height: 100%;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #001922;
 }
@@ -126,8 +126,8 @@ main {
         padding-bottom: 5%;
         border-radius: 10px;
         margin: 20px;
-        color: #111010;
-        box-shadow: rgba(179, 74, 74, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+        color: #ffffff;
+        box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     }
 
 #about h3 {
@@ -153,7 +153,8 @@ main {
     border-radius: 10px;
     padding: 20px;
     text-align: center;
-    box-shadow: rgba(179, 74, 74, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px,
+        rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 
