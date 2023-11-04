@@ -14,6 +14,7 @@ html {
     min-height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     background-color: #001922;
 }
 
@@ -140,13 +141,13 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
-    background-color: rgba(250, 248, 242, 0.6);
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
 }
 
 .episode {
+    background-color: aliceblue;
     border: 2px solid #b54531;
     border-radius: 10px;
     padding: 20px;
