@@ -122,17 +122,17 @@ main {
 /* about section */
 
 #about {
-        background-color: rgba(194, 209, 233, 0.3);
-        text-align: center;
-        padding-left: 10%;
-        padding-right: 10%;
-        padding-top: 2%;
-        padding-bottom: 2%;
-        border-radius: 10px;
-        margin: 20px;
-        color: #ffffff;
-        box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-    }
+    background-color: rgba(194, 209, 233, 0.3);
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 10px;
+    margin: 20px;
+    color: #ffffff;
+    box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
 
 #about h3 {
     font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
@@ -142,38 +142,57 @@ main {
 }
 
 #about img {
-        max-width: 50%;
-        max-height: 50%;
-        margin-top: 30px;
-    }
+    max-width: 50%;
+    max-height: 50%;
+    margin-top: 30px;
+}
 
 .latestepisodes {
     background-color: rgba(194, 209, 233, 0.3);
     border-radius: 10px;
-        margin: 20px;
-        padding-top: 2%;
-        padding-bottom: 2%;
-        text-align: center;
+    margin: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
     font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+    box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .latestepisodes img {
     max-width: 200px;
     max-height: 200px;
-    margin-top: 30px;}
+    margin-top: 30px;
+}
 
 .latestepisodes h2 {
     font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
-        color: rgba(250, 248, 242, 0.9);
-        text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
-        text-align: center;
+    color: rgba(250, 248, 242, 0.9);
+    text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
+    text-align: center;
+}
+
+a.archivelink {
+    color: #420404;
+    font-size: 20px;
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+a.archivelink:visited {
+    color: #420404;
+}
+
+a.archivelink:hover {
+    color: #000000;
 }
 
 .episodes h2 {
     font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     text-align: center;
     color: rgba(250, 248, 242, 0.9);
-        text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
+    text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
 
 }
 
@@ -268,15 +287,15 @@ footer {
 
 /* Contact form*/
 #contactform {
-        padding-left: 10%;
-        padding-right: 10%;
-        padding-top: 5%;
-        padding-bottom: 8%;
-        border-radius: 10px;
-        margin: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 8%;
+    border-radius: 10px;
+    margin: 20px;
     background-color: rgba(194, 209, 233, 0.5);
     box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px,
-            rgba(0, 0, 0, 0.22) 0px 15px 12px;
+        rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 
@@ -353,6 +372,7 @@ footer {
         margin: 0 0.5rem;
     }
 }
+
 /* episodes grid - mobile */
 @media (max-width: 768px) {
     .episode-grid {
