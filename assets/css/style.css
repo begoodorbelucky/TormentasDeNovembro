@@ -169,6 +169,14 @@ main {
         text-align: center;
 }
 
+.episodes h2 {
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgba(250, 248, 242, 0.9);
+        text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
+
+}
+
 /* episode display grid */
 .episode-grid {
     display: grid;
