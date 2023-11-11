@@ -40,10 +40,6 @@ header {
     margin-bottom: 10px;
 }
 
-header a {
-    text-decoration: none;
-}
-
 /* Main header/logo*/
 
 h1 {
@@ -122,7 +118,7 @@ main {
 /* about section */
 
 #about {
-    background-color: rgba(194, 209, 233, 0.3);
+    background-color: rgba(194, 209, 233, 0.5);
     text-align: center;
     padding-left: 10%;
     padding-right: 10%;
@@ -130,8 +126,13 @@ main {
     padding-bottom: 2%;
     border-radius: 10px;
     margin: 20px;
-    color: #ffffff;
     box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+#about img {max-width: 40%;
+max-height: 40%;
+border-radius: 50%;
+box-shadow: rgba(0, 0, 0, 0.60) 0px 20px 60px 4px;
 }
 
 #about h3 {
@@ -139,16 +140,16 @@ main {
     color: rgba(250, 248, 242, 0.9);
     text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
     text-align: center;
+    padding-bottom: 15px;
 }
 
-#about img {
-    max-width: 50%;
-    max-height: 50%;
-    margin-top: 30px;
-}
+#about p {padding-top: 15px;
+color: #000000;
+font-size: 20px;
+font-weight: bold;}
 
 .latestepisodes {
-    background-color: rgba(194, 209, 233, 0.3);
+    background-color: rgba(194, 209, 233, 0.5);
     border-radius: 10px;
     margin: 20px;
     padding-top: 2%;
