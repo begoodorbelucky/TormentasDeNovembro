@@ -171,6 +171,8 @@ main {
     text-align: center;
 }
 
+a {text-decoration: none;}
+
 a.archivelink {
     color: #420404;
     font-size: 20px;
