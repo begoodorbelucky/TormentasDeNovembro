@@ -44,12 +44,16 @@ header a {
     text-decoration: none;
 }
 
+/* Main header/logo*/
+
 h1 {
     font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     color: rgba(250, 248, 242, 0.9);
     text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
     text-align: center;
 }
+
+/* menu/nav styles*/
 
 #menu {
     font-size: 110%;
@@ -122,8 +126,8 @@ main {
         text-align: center;
         padding-left: 10%;
         padding-right: 10%;
-        padding-top: 5%;
-        padding-bottom: 5%;
+        padding-top: 2%;
+        padding-bottom: 2%;
         border-radius: 10px;
         margin: 20px;
         color: #ffffff;
@@ -137,13 +141,35 @@ main {
     text-align: center;
 }
 
-img {
-        max-width: 100%;
-        max-height: 100%;
+#about img {
+        max-width: 50%;
+        max-height: 50%;
         margin-top: 30px;
     }
 
-/* episode grid */
+.latestepisodes {
+    background-color: rgba(194, 209, 233, 0.3);
+    border-radius: 10px;
+        margin: 20px;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        text-align: center;
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+}
+
+.latestepisodes img {
+    max-width: 200px;
+    max-height: 200px;
+    margin-top: 30px;}
+
+.latestepisodes h2 {
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+        color: rgba(250, 248, 242, 0.9);
+        text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
+        text-align: center;
+}
+
+/* episode display grid */
 .episode-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -191,6 +217,8 @@ footer {
     box-shadow: 0 -2px 3px rgba(0, 20, 30, 1);
 }
 
+/* social network icons in footer*/
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -232,12 +260,19 @@ footer {
 
 /* Contact form*/
 #contactform {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 5%;
+        padding-bottom: 8%;
+        border-radius: 10px;
+        margin: 20px;
     background-color: rgba(194, 209, 233, 0.5);
-    padding: 20px 10% 10% 10%;
     box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px,
             rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
+
+/* for name and address*/
 .text-input {
     font-size: 16px;
     background-color: rgba(194, 209, 233, 0.9);
@@ -250,6 +285,7 @@ footer {
     padding: 0 5px;
 }
 
+/* for message */
 .message-input {
     font-size: 16px;
     background-color: rgba(194, 209, 233, 0.9);
@@ -262,11 +298,13 @@ footer {
     padding: 0 5px;
 }
 
+/* message placeholder styling*/
 .message-input::placeholder {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
 
+/*submit button styling*/
 .submit-button {
     margin-top: 20px;
     padding: 15px 32px;
