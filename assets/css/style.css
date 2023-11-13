@@ -317,7 +317,14 @@ footer {
 }
 
 /* Contact form*/
+#contactform h3 {font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.9);}
+
 #contactform {
+    color: #000000;
+    font-family: 'Cinzel Decorative','Courier New',Courier,monospace;
+    font-weight: bold;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 5%;
@@ -355,6 +362,10 @@ footer {
     border-radius: 2px;
     padding: 0 5px;
 }
+
+/* text input placeholder styling */
+.text-input::placeholder {font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;}
 
 /* message placeholder styling*/
 .message-input::placeholder {
