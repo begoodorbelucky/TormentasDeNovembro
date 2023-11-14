@@ -129,10 +129,11 @@ main {
     box-shadow: rgba(214, 202, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
-#about img {max-width: 40%;
-max-height: 40%;
-border-radius: 50%;
-box-shadow: rgba(0, 0, 0, 0.60) 0px 20px 60px 4px;
+#about img {
+    max-width: 40%;
+    max-height: 40%;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.60) 0px 20px 60px 4px;
 }
 
 #about h2 {
@@ -143,7 +144,7 @@ box-shadow: rgba(0, 0, 0, 0.60) 0px 20px 60px 4px;
     padding-bottom: 15px;
 }
 
-#about h3 {
+#about h4 {
     font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     color: rgba(250, 248, 242, 0.9);
     text-shadow: 3px 3px 3px rgba(213, 75, 50, 0.9);
@@ -151,24 +152,40 @@ box-shadow: rgba(0, 0, 0, 0.60) 0px 20px 60px 4px;
     padding-bottom: 15px;
 }
 
-#about p {padding-top: 15px;
-color: #000000;
-font-size: 100%;
-font-weight: bold;}
+#about p {
+    padding-top: 15px;
+    padding-left: 15%;
+    padding-right: 15%;
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+}
 
-#about .aboutspotifylink {color:#000000;
-text-decoration:none;}
+#about .aboutspotifylink {
+    color: #000000;
+    text-decoration: none;
+}
 
-#about .aboutspotifylink:visited {color: #000000;}
+#about .aboutspotifylink:visited {
+    color: #000000;
+}
 
-#about .aboutspotifylink:hover {color:#420404;}
+#about .aboutspotifylink:hover {
+    color: #420404;
+}
 
-#about .aboutotherlink {color: #ffffff;
-    text-decoration:none;}
+#about .aboutotherlink {
+    color: #ffffff;
+    text-decoration: none;
+}
 
-#about .aboutotherlink:visited {color: #ffffff;}
+#about .aboutotherlink:visited {
+    color: #ffffff;
+}
 
-#about .aboutotherlink:hover {color:#420404;}
+#about .aboutotherlink:hover {
+    color: #420404;
+}
 
 .latestepisodes {
     background-color: rgba(194, 209, 233, 0.5);
@@ -194,7 +211,9 @@ text-decoration:none;}
     text-align: center;
 }
 
-a {text-decoration: none;}
+a {
+    text-decoration: none;
+}
 
 a.archivelink {
     color: #420404;
@@ -317,13 +336,15 @@ footer {
 }
 
 /* Contact form*/
-#contactform h3 {font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
+#contactform h3 {
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     text-align: center;
-    color: rgba(0, 0, 0, 0.9);}
+    color: rgba(0, 0, 0, 0.9);
+}
 
 #contactform {
     color: #000000;
-    font-family: 'Cinzel Decorative','Courier New',Courier,monospace;
+    font-family: 'Cinzel Decorative', 'Courier New', Courier, monospace;
     font-weight: bold;
     padding-left: 10%;
     padding-right: 10%;
@@ -364,8 +385,10 @@ footer {
 }
 
 /* text input placeholder styling */
-.text-input::placeholder {font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;}
+.text-input::placeholder {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
 
 /* message placeholder styling*/
 .message-input::placeholder {
