@@ -174,16 +174,16 @@ main {
     color: #420404;
 }
 
-#about .aboutotherlink {
+#about .aboutsociallinks {
     color: #ffffff;
     text-decoration: none;
 }
 
-#about .aboutotherlink:visited {
+#about .aboutsociallinks:visited {
     color: #ffffff;
 }
 
-#about .aboutotherlink:hover {
+#about .aboutsociallinks:hover {
     color: #420404;
 }
 
@@ -443,4 +443,8 @@ footer {
     .episode-grid {
         grid-template-columns: 1fr;
     }
+
+#about p {
+    padding-left: 2%;
+    padding-right: 2%;}
 }
