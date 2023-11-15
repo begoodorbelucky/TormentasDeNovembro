@@ -40,4 +40,14 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 * Create a comprehensive episodes archive showcasing all episodes complete with spotify links and iframes to enchance accessibility to episodes and encourage listening.
 * Create a user-friendly contact form for listeners to give feedback and suggestions, fostering direct communication with the audience. 
 
+### Color Scheme 
+
+The colors used in the site are various shades of blue, white and red. These colors were chosen as they are reminiscent of a ship in distress on a stormy ocean.
+
+### Typography 
+
+The main font used in the heading elements is 'Cinzel Decorative', with 'Courier New', Courier, and 'Monospace' used as a fallback should the 'Cinzel Decorative' not import correctly. 'Courier New' is then used throughout the rest of the site, with 'Courier' and 'Monospace' as fallbacks. 
+
+## Features
+
 
