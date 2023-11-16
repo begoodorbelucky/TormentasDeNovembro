@@ -42,7 +42,9 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 
 ### Color Scheme 
 
-The colors used in the site are various shades of blue, white and red. These colors were chosen as they are reminiscent of a ship in distress on a stormy ocean.
+![Color scheme](assets/readme-files/projectcolorscheme.png)
+
+The colors used in the site are various shades of blue (#00141e-"Rich Black"), white (#faf8f2-"Baby Powder") and red (#d54b32-"Chili Red"). Layered in various opacities, these colors are reminiscent of a ship in distress on a stormy ocean. Though various tones of these colors are used to give depth to the website, these shades are used predominantly throughout the website to give a cohesive appearance.
 
 ### Typography 
 
