@@ -450,6 +450,15 @@ footer {
 
 /* episodes grid - mobile */
 @media (max-width: 768px) {
+
+    #about h4 {
+        font-size: x-small;
+    }
+
+    #about p {
+        font-size: small;
+    }
+
     .episode-grid {
         grid-template-columns: 1fr;
     }
