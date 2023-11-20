@@ -15,18 +15,23 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 
 ## Contents
 
-1. [User Experience (UX) (#user-experience-ux)]
-   1. [Project Goals] (#project-goals)
-   2. [Color Scheme] (#color-scheme)
-   3. [Typography] (#typography)
-2. [Features] (#features)
-   1. [General] (#general)
-3. [Technologies Used] (#technologies-used)
-4. [Testing] (#testing)
-5. [Finished Product] (#finished-product)
-6. [Deployment] (deployment)
-   1. [Github Pages] (#github-pages)
-7. [Credits] (#credits)
+1. [User Experience (UX)](#user-experience-ux)
+   1. [Project Goals](#project-goals)
+   2. [Color Scheme](#color-scheme)
+   3. [Typography](#typography)
+2. [Features](#features)
+   1. [General](#general)
+   2. [Landing Page](#landing-page)
+   3. [Episodes Page](#episodes-page)
+   4. [Contact Page](#contact-page)
+3. [Technologies Used](#technologies-used)
+   1. [Languages Used](#languages-used)
+   2. [Websites and Programs Used](#websites-and-programs-used)
+5. [Testing](#testing)
+6. [Finished Product](#finished-product)
+7. [Deployment](deployment)
+   1. [Github Pages](#github-pages)
+8. [Credits](#credits)
 
 ***
 
@@ -89,33 +94,34 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 ## Technologies Used
 
 ### Languages Used
-*[HTML]
-*[CSS]
+* [HTML](https://www.w3schools.com/html/html_intro.asp)
+* [CSS](https://www.w3schools.com/css/css_intro.asp)
 
-### Programs Used
+### Websites and Programs Used
 
-*[Google Fonts](https://fonts.google.com/)
-   - Google fonts was used to 
+* [Google Fonts](https://fonts.google.com/)
+   - Google fonts was used to import the font 'Cinzel Decorative', which was used as the logo font and throughout the rest of the site to give a cohesive appearance. 
 
-*[Font Awesome](https://fontawesome.com/)
-   - Font Awesome was used to 
-*[Codeanywhere](https://codeanywhere.com/)
-   -Codeanywhere was used to 
+* [Font Awesome](https://fontawesome.com/)
+   - Font Awesome was used to add the Spotify, Instagram and Email icons to the website, providing a recognizable link to the relevant pages. 
+     
+* [Codeanywhere](https://codeanywhere.com/)
+   - Codeanywhere was used as the integrated development environment for writing, committing, and pushing code to GitHub.
 
-*[Github](https://github.com/)
-   - Github was used to 
+* [Github](https://github.com/)
+   - Github was used to store the code, as well as facilitate version control. 
 
-*[Am I Responsive?](https://ui.dev/amiresponsive)
-   - 'Am I Responsive' was used to 
+* [Am I Responsive?](https://ui.dev/amiresponsive)
+   - 'Am I Responsive' was used to visualize and test how the website appears on different screen sizes, including desktops, tablets, and mobile devices.
 
-*[Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
-   - Chrome DevTools was used to 
+* [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+   - Chrome DevTools was used to to inspect, debug, and optimize the performance of the podcast website.
 
-*[W3C Markup Validator](https://validator.w3.org/)
-   - W3C Markup Validator was used to
+* [W3C Markup Validator](https://validator.w3.org/)
+   - W3C Markup Validator was used to validate the HTML code.
 
-*[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-   - W3C CSS Validator was used to
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+   - W3C CSS Validator was used to validate the CSS code.
    
 ## Testing
 # Finished Product
