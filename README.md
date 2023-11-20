@@ -4,9 +4,9 @@
 
 Visit the deployed site: [Tormentas De Novembro](https://begoodorbelucky.github.io/TormentasDeNovembro/index.html)
 
-Welcome Aboard Tormentas De Novembro
+### Welcome Aboard Tormentas De Novembro
 
-About Us
+### About Us
 
 Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and mysteries. This website is the premier port of call for any martime enthusiasts to listen to this riveting podcast. We will dive into the depths of captivationg conversation, unravel maritime mysteries, and set sail into the open ocean of nautical history. Join us for an immersive journey into uncharted waters.
 
@@ -53,31 +53,70 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 ## Features
 
 ### General 
-*An intuitive and visually pleasing design that encourages easy nativation.
-*The header, navigation and footer elements are identical on all pages to ensure ease of navigation.
-*Similar aesthetic and colors used throughout the site maintains visual cohesion and intuitive design. 
-*The website is fully responsive, ensuring a smooth and engaging experience on all devices.
-*The website seamlessly integrates instagram, spotify and email links to encourage engagement across multiple platforms.
-*A floating button on all pages that allows users to navigate back to the top of the current page instantly.
+
+* An intuitive and visually pleasing design that encourages easy nativation.
+* The header, navigation and footer elements are identical on all pages to ensure ease of navigation.
+* Similar aesthetic and colors used throughout the site maintains visual cohesion and intuitive design. 
+* The website is fully responsive, ensuring a smooth and engaging experience on all devices.
+* The website seamlessly integrates instagram, spotify and email links to encourage engagement across multiple platforms.
+* A floating button on all pages that allows users to navigate back to the top of the current page instantly.
 
 
 * **Header** 
-  -The Logo serves as link back to the landing page of the website.
+  - The header spans the top of the page and features the podcast logo and a completely responsive navigation bar. It is identical on all pages of the website to ensure ease of navigation.  
+  - The logo serves as a link back to the landing page
   
 * **Navigation Menu**
-
+  - The fully responsive navigation bar features positional in the header features links to the following pages:
+  * Home Page - Takes users to the main page of the website.
+  * Episodes - Navigates to a page showcasing a list of all available podcast episodes.
+  * Contact Form  - Takes users to the contact page where they can submit any questions, suggestions or comments.
+    
 * **Footer**
+  - The footer features social media icons which directly link users to the relevant instagram, spotify and email links.
+  - The footer is identical on all pages of the website to ensure ease of navigation.
 
-### Landing Page 
+### Landing Page
+- The landing page provides a starting point for users to explore the introduction to the podcast and the recent episodes.
 
-### Episdoes Archive Page
-*A comprehensive episode archive that showcases all episodes.
-*The embedded spotify players allow the user to listen to the episode without leaving the page. 
+### Episodes Page
+- The episodes page provides a comprehensive episode archive that showcases all available episodes of the podcast.
+- The embedded spotify players allow the user to listen to the episode without leaving the page. 
 
 ### Contact Page
-*An ostentatious contact form to encourage engagement and feedback.
+- The contact page features an ostentatious contact form to encourage engagement and feedback.
 
 ## Technologies Used
+
+### Languages Used
+*[HTML]
+*[CSS]
+
+### Programs Used
+
+*[Google Fonts](https://fonts.google.com/)
+   - Google fonts was used to 
+
+*[Font Awesome](https://fontawesome.com/)
+   - Font Awesome was used to 
+*[Codeanywhere](https://codeanywhere.com/)
+   -Codeanywhere was used to 
+
+*[Github](https://github.com/)
+   - Github was used to 
+
+*[Am I Responsive?](https://ui.dev/amiresponsive)
+   - 'Am I Responsive' was used to 
+
+*[Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
+   - Chrome DevTools was used to 
+
+*[W3C Markup Validator](https://validator.w3.org/)
+   - W3C Markup Validator was used to
+
+*[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+   - W3C CSS Validator was used to
+   
 ## Testing
 # Finished Product
 # Deployment
