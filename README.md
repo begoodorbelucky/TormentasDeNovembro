@@ -124,6 +124,38 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
    - W3C CSS Validator was used to validate the CSS code.
    
 ## Testing
+
+### Code Validation 
+
+### Accessibility 
+
+### Automated Testing 
+
+   * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+        -Chrome DevTools was used 
+
+   * [Am I Responsive?](https://ui.dev/amiresponsive)
+        -'Am I Responsive' was used 
+
+### Manual Testing
+
+* Cross-Browser Compatibility:
+     - Manual testing was conducted on different browsers (e.g., Chrome, Firefox, Safari) to ensure consistent performance.
+
+* Device Compatibility:
+     - The website has been tested on several different devices to successfully demonstrate there are no appearance, functionality or responsiveness issues. The devices tested include:
+          - **Samsung Galaxy S22 Ultra**
+          - **Toshiba Satellite L50-C**
+          - **IPhone XE**
+          - **iPad 10.2-inch (9th Generation)**
+          - **Macbook Air 13.3-inch**
+
 # Finished Product
+
+Page | Desktop version | Mobile version
+--- | --- | ---
+Index |
+Episodes |
+Contact |
 # Deployment
 # Credits
