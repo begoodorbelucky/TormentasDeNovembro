@@ -443,6 +443,11 @@ footer {
     .episode-grid {
         grid-template-columns: 1fr;
     }
+.episode img {
+     max-width: 180px;
+            max-height: 180px;
+            margin-top: 30px;
+}
 
 #about p {
     padding-left: 2%;
