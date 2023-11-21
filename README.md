@@ -163,8 +163,8 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 Page | Desktop version | Mobile version
 --- | --- | ---
-Index |
-Episodes |
-Contact |
+Index | ![Desktop index page image](assets/readme-files/indexdesktopss.png) | ![Mobile index page image](assets/readme-files/indexmobiless.png)
+Episodes | ![Desktop episodes page image](assets/readme-files/episodesdesktopss.png) | ![Mobile episodes page image](assets/readme-files/episodesmobiless.png)
+Contact | ![Desktop contact page image](assets/readme-files/contactdesktopss.png) | ![Mobile contact page image](assets/readme-files/contactmobiless.png)
 # Deployment
 # Credits
