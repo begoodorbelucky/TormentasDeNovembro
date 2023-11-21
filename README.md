@@ -60,6 +60,8 @@ The colors used in the site are various shades of blue (#00141e-"Rich Black"), w
 
 ### Typography 
 
+![Typography](assets/readme-files/fontsample.png)
+
 The main font used in the heading elements is 'Cinzel Decorative', with 'Courier New', Courier, and 'Monospace' used as a fallback should the 'Cinzel Decorative' not import correctly. 'Courier New' is then used throughout the rest of the site, with 'Courier' and 'Monospace' as fallbacks. 
 
 ## Features
