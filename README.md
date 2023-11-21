@@ -1,6 +1,6 @@
 # Tormentas De Novembro
 
-![Tormentas De Novembro website shown on a variety of screen sizes](assets/images/*)
+![Tormentas De Novembro website shown on a variety of screen sizes](assets/readme-files/responsivescreenshot.png)
 
 Visit the deployed site: [Tormentas De Novembro](https://begoodorbelucky.github.io/TormentasDeNovembro/index.html)
 
@@ -15,23 +15,30 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 
 ## Contents
 
-1. [User Experience (UX)](#user-experience-ux)
-   1. [Project Goals](#project-goals)
-   2. [Color Scheme](#color-scheme)
-   3. [Typography](#typography)
-2. [Features](#features)
-   1. [General](#general)
-   2. [Landing Page](#landing-page)
-   3. [Episodes Page](#episodes-page)
-   4. [Contact Page](#contact-page)
-3. [Technologies Used](#technologies-used)
-   1. [Languages Used](#languages-used)
-   2. [Websites and Programs Used](#websites-and-programs-used)
-5. [Testing](#testing)
-6. [Finished Product](#finished-product)
-7. [Deployment](deployment)
-   1. [Github Pages](#github-pages)
-8. [Credits](#credits)
+- [Tormentas De Novembro](#tormentas-de-novembro)
+    - [Welcome Aboard Tormentas De Novembro](#welcome-aboard-tormentas-de-novembro)
+    - [About Us](#about-us)
+  - [Contents](#contents)
+  - [User Experience (UX)](#user-experience-ux)
+    - [Project Goals](#project-goals)
+    - [Color Scheme](#color-scheme)
+    - [Typography](#typography)
+  - [Features](#features)
+    - [General](#general)
+    - [Landing Page](#landing-page)
+    - [Episodes Page](#episodes-page)
+    - [Contact Page](#contact-page)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Websites and Programs Used](#websites-and-programs-used)
+  - [Testing](#testing)
+    - [Code Validation](#code-validation)
+    - [Accessibility](#accessibility)
+    - [Automated Testing](#automated-testing)
+    - [Manual Testing](#manual-testing)
+- [Finished Product](#finished-product)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 ***
 
