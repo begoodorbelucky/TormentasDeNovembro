@@ -195,4 +195,19 @@ Contact | ![Desktop contact page image](assets/readme-files/contactdesktopss.png
 
 ### Media 
 
+![Podcast Logo](assets/readme-files/podlogo.jpg)
 
+- The podcast logo was created by Gabriel Breslau. 
+
+* [Shutterstock](https://www.shutterstock.com/)
+  
+- Background image: [Abstract Art Blue Paint Background Liquid](https://www.shutterstock.com/image-illustration/abstract-art-blue-paint-background-liquid-1802211250) by [Korkeng](https://www.shutterstock.com/g/korkeng/about)
+- Episode One Image: [Ship on Foggy Morning Ghost Fog](https://www.shutterstock.com/image-photo/ship-on-foggy-morning-ghost-fog-1010106658) taken by [Sonia Hache](https://www.shutterstock.com/g/SoniaHache/about)
+- Episode Two Image: [Still Life Pirate Skull Knife Mouth](https://www.shutterstock.com/image-photo/still-life-pirate-skull-knife-mouth-174521960) taken by [Baimieng](https://www.shutterstock.com/g/worac/about)
+- Episode Three Image: [Lone Yacht Sailing Adriatic Sea Black](https://www.shutterstock.com/image-photo/lone-yacht-sailing-adriatic-sea-black-65088772) taken by [Alexey Stiop](https://www.shutterstock.com/g/alexeys)
+- Episode Four Image: [Storm Punishes Coast Michigan Huge Waves](https://www.shutterstock.com/image-photo/storm-punishes-coast-michigan-huge-waves-1230694003) taken by [BJontzPhoto](https://www.shutterstock.com/g/BJontzPhoto)
+- Episode Six Image [Wreck Ocean Liner Empress Ireland](https://www.shutterstock.com/image-photo/wreck-ocean-liner-empress-ireland-1215871699) taken by [RLS Photo](https://www.shutterstock.com/g/RLS+Photo)
+
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+  
+- Episode Five Image: [Vapor Príncipe de Asturias en Pruebas de Mar](https://commons.wikimedia.org/wiki/File:Vapor_Pr%C3%ADncipe_de_Asturias_en_pruebas_de_mar.JPG) (Public Domain - Photographer is unknown)
