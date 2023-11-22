@@ -39,6 +39,8 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 - [Finished Product](#finished-product)
 - [Deployment](#deployment)
 - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
 
 ***
 
@@ -142,15 +144,24 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 ### Code Validation 
 
+* [W3C Markup Validator](https://validator.w3.org/)
+  - W3C Markup Validator was used to ensure quality and compliance of the HTML code in this project
+
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  - W3C CSS Validator was used to ensure the quality and compliance of the CSS code in this project. 
+
 ### Accessibility 
+
+* [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
+- Lighthouse was used to ensure the accessibility of the project, to guarantee an inclusive and user-friendly experience for all visitors.
 
 ### Automated Testing 
 
    * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-        -Chrome DevTools was used 
+        -Chrome DevTools was used to continuously monitor the project, ensuring the website's responsiveness and visual appeal on all device size. 
 
    * [Am I Responsive?](https://ui.dev/amiresponsive)
-        -'Am I Responsive' was used 
+        -'Am I Responsive' was also used to ensure the website was fully responsive across a range of device sizes. 
 
 ### Manual Testing
 
@@ -173,4 +184,15 @@ Index | ![Desktop index page image](assets/readme-files/indexdesktopss.png) | ![
 Episodes | ![Desktop episodes page image](assets/readme-files/episodesdesktopss.png) | ![Mobile episodes page image](assets/readme-files/episodesmobiless.png)
 Contact | ![Desktop contact page image](assets/readme-files/contactdesktopss.png) | ![Mobile contact page image](assets/readme-files/contactmobiless.png)
 # Deployment
+
+- The code for this website was written on [CodeAnywhere](https://codeanywhere.com/), which was then commited and pushed to [Github](https://github.com/).
+
 # Credits
+
+### Content
+
+- This website's content was written by the developer, with guidance from the podcast creators, Gabriel Breslau and Douglas Martins.
+
+### Media 
+
+
