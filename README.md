@@ -77,16 +77,22 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 
 * **Header** 
+  
+  ![Header](assets/readme-files/headerss.png)
   - The header spans the top of the page and features the podcast logo and a completely responsive navigation bar. It is identical on all pages of the website to ensure ease of navigation.  
   - The logo serves as a link back to the landing page
   
 * **Navigation Menu**
+
+  ![Navigation Menu](assets/readme-files/menumobiless.png)
   - The fully responsive navigation bar features positional in the header features links to the following pages:
   * Home Page - Takes users to the main page of the website.
   * Episodes - Navigates to a page showcasing a list of all available podcast episodes.
   * Contact Form  - Takes users to the contact page where they can submit any questions, suggestions or comments.
     
 * **Footer**
+  
+  ![Header](assets/readme-files/footerss.png)
   - The footer features social media icons which directly link users to the relevant instagram, spotify and email links.
   - The footer is identical on all pages of the website to ensure ease of navigation.
 
