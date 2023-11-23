@@ -152,8 +152,9 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 ### Accessibility 
 
+![Lighthouse](assets/readme-files/lighthouse.jpg)
 * [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
-- Lighthouse was used to ensure the accessibility of the project, to guarantee an inclusive and user-friendly experience for all visitors.
+   was used to ensure the accessibility of the project, to guarantee an inclusive and user-friendly experience for all visitors.
 
 ### Automated Testing 
 
