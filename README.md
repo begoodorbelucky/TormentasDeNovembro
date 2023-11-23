@@ -38,7 +38,7 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 - [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
-
+- [Acknowledgements](#acknowledgements)
 ---
 
 ## User Experience (UX)
