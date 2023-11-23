@@ -8,7 +8,7 @@ Visit the deployed site: [Tormentas De Novembro](https://begoodorbelucky.github.
 
 ### About Us
 
-Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and mysteries. This website is the premier port of call for any martime enthusiasts to listen to this riveting podcast. We will dive into the depths of captivationg conversation, unravel maritime mysteries, and set sail into the open ocean of nautical history. Join us for an immersive journey into uncharted waters.
+Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and mysteries. This website is the premier port of call for any maritime enthusiasts to listen to this riveting podcast. We will dive into the depths of captivating conversation, unravel maritime mysteries, and set sail into the open ocean of nautical history. Join us for an immersive journey into uncharted waters.
 
 ## Contents
 
@@ -45,10 +45,10 @@ Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and
 
 ### Project Goals
 
-- Successfully lauch the "Tormentas De Novembro" website featuring a homepage, an episodes archive page, and a contact page.
-- Design an intuitive and visually appealig website interface that enchances user experience and encourages easy navigation
+- Successfully launch the "Tormentas De Novembro" website featuring a homepage, an episodes archive page, and a contact page.
+- Design an intuitive and visually appealing website interface that enhances user experience and encourages easy navigation
 - Ensure the website is fully responsive on all screen sizes, with a focus on mobile first design, providing a seamless and enjoyable experience on all devices.
-- Create a comprehensive episodes archive showcasing all episodes complete with spotify links and iframes to enchance accessibility to episodes and encourage listening.
+- Create a comprehensive episodes archive showcasing all episodes complete with Spotify links and iframes to enhance accessibility to episodes and encourage listening.
 - Create a user-friendly contact form for listeners to give feedback and suggestions, fostering direct communication with the audience.
 
 ### Color Scheme
@@ -67,11 +67,11 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 ### General
 
-- An intuitive and visually pleasing design that encourages easy nativation.
+- An intuitive and visually pleasing design that encourages easy navigation.
 - The header, navigation and footer elements are identical on all pages to ensure ease of navigation.
 - Similar aesthetic and colors used throughout the site maintains visual cohesion and intuitive design.
 - The website is fully responsive, ensuring a smooth and engaging experience on all devices.
-- The website seamlessly integrates instagram, spotify and email links to encourage engagement across multiple platforms.
+- The website seamlessly integrates Instagram, Spotify and email links to encourage engagement across multiple platforms.
 - A floating button on all pages that allows users to navigate back to the top of the current page instantly.
 
 - **Header**
@@ -95,7 +95,7 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
   ![Header](assets/readme-files/footerss.png)
 
-  - The footer features social media icons which directly link users to the relevant instagram, spotify and email links.
+  - The footer features social media icons which directly link users to the relevant Instagram, Spotify and email links.
   - The footer is identical on all pages of the website to ensure ease of navigation.
 
 ### Landing Page
@@ -105,7 +105,7 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 ### Episodes Page
 
 - The episodes page provides a comprehensive episode archive that showcases all available episodes of the podcast.
-- The embedded spotify players allow the user to listen to the episode without leaving the page.
+- The embedded Spotify players allow the user to listen to the episode without leaving the page.
 
 ### Contact Page
 
@@ -140,7 +140,7 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
 
-  - Chrome DevTools was used to to inspect, debug, and optimize the performance of the podcast website.
+  - Chrome DevTools was used to inspect, debug, and optimize the performance of the podcast website.
 
 - [W3C Markup Validator](https://validator.w3.org/)
 
@@ -204,7 +204,7 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
 # Deployment
 
-- The code for this website was written on [CodeAnywhere](https://codeanywhere.com/), which was then commited and pushed to [Github](https://github.com/).
+- The code for this website was written on [CodeAnywhere](https://codeanywhere.com/), which was then committed and pushed to [Github](https://github.com/).
 
 # Credits
 
