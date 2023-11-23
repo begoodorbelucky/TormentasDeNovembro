@@ -10,8 +10,6 @@ Visit the deployed site: [Tormentas De Novembro](https://begoodorbelucky.github.
 
 Tormentas de Novembro is a Brazilian podcast discussing sea-faring histories and mysteries. This website is the premier port of call for any martime enthusiasts to listen to this riveting podcast. We will dive into the depths of captivationg conversation, unravel maritime mysteries, and set sail into the open ocean of nautical history. Join us for an immersive journey into uncharted waters.
 
-![GitHub last commit](https://github.com/begoodorbelucky/TormentasDeNovembro/commit/90dc5527c5b0398d26b7e04775ab4881d2c897b7)
-
 ## Contents
 
 - [Tormentas De Novembro](#tormentas-de-novembro)
@@ -232,3 +230,7 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
   - Episode Five Image: [Vapor Príncipe de Asturias en Pruebas de Mar](https://commons.wikimedia.org/wiki/File:Vapor_Pr%C3%ADncipe_de_Asturias_en_pruebas_de_mar.JPG) (Public Domain - Photographer is unknown)
+
+### Acknowledgements 
+
+* I would like to thank Gabriel Breslau and Douglas Martins for their permission to use their podcast as my project, their guidance on all things nautical, and their unwavering support. 
