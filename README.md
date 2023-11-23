@@ -231,6 +231,6 @@ The main font used in the heading elements is 'Cinzel Decorative', with 'Courier
 
   - Episode Five Image: [Vapor Príncipe de Asturias en Pruebas de Mar](https://commons.wikimedia.org/wiki/File:Vapor_Pr%C3%ADncipe_de_Asturias_en_pruebas_de_mar.JPG) (Public Domain - Photographer is unknown)
 
-### Acknowledgements 
+# Acknowledgements 
 
 * I would like to thank Gabriel Breslau and Douglas Martins for their permission to use their podcast as my project, their guidance on all things nautical, and their unwavering support. 
